@@ -1,14 +1,16 @@
-# Welcome to your Lovable project
+# Digital Game Hub
+
+https://game-namkeen-digital-ani.lovable.app/?fbclid=PAVERFWAVAUwZleHRuA2FlbQIxMABwZG9mAmZkaWQWUQeGQUBYTe5LPbGxxATkMXGWFUKBwnNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABpyf0ctkDZdI5FmWGs2k0MzFseVyckrxgqlHpMMOLcfskEB8tI7rLXyW0TN0D_aem_yO4XaUZGG6kvrIQa35WU6A  upload it to github
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/e63404cd-8296-460b-992e-047adebedee8).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +22,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
